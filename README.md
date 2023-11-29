@@ -44,4 +44,6 @@ Step | Details
   9.  Go Back to the **Permissions** tab. There are 2 policies assigned to the role. Click the + icon to see the policies granted
 
 # Creating a Lambda layer and a data extractor Lambda function
-  10. Download these lab files to your local machines. 
+  10. Download these lab files to your local machines.
+      [pymysql-v3.zip](https://github.com/cooksies/Getting-started-with-AWS-Lambda/blob/main/pymysql-v3.zip)
+      [salesAnalysisReportDataExtractor-v3.zip](
